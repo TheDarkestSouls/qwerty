@@ -1,0 +1,15 @@
+C:\Users\NikEli\Desktop\cjfhudsrgyuer\asfdgyh\who\bin\Debug\net6.0\who.exe
+C:\Users\NikEli\Desktop\cjfhudsrgyuer\asfdgyh\who\bin\Debug\net6.0\who.deps.json
+C:\Users\NikEli\Desktop\cjfhudsrgyuer\asfdgyh\who\bin\Debug\net6.0\who.runtimeconfig.json
+C:\Users\NikEli\Desktop\cjfhudsrgyuer\asfdgyh\who\bin\Debug\net6.0\who.dll
+C:\Users\NikEli\Desktop\cjfhudsrgyuer\asfdgyh\who\bin\Debug\net6.0\who.pdb
+C:\Users\NikEli\Desktop\cjfhudsrgyuer\asfdgyh\who\obj\Debug\net6.0\who.csproj.AssemblyReference.cache
+C:\Users\NikEli\Desktop\cjfhudsrgyuer\asfdgyh\who\obj\Debug\net6.0\who.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NikEli\Desktop\cjfhudsrgyuer\asfdgyh\who\obj\Debug\net6.0\who.AssemblyInfoInputs.cache
+C:\Users\NikEli\Desktop\cjfhudsrgyuer\asfdgyh\who\obj\Debug\net6.0\who.AssemblyInfo.cs
+C:\Users\NikEli\Desktop\cjfhudsrgyuer\asfdgyh\who\obj\Debug\net6.0\who.csproj.CoreCompileInputs.cache
+C:\Users\NikEli\Desktop\cjfhudsrgyuer\asfdgyh\who\obj\Debug\net6.0\who.dll
+C:\Users\NikEli\Desktop\cjfhudsrgyuer\asfdgyh\who\obj\Debug\net6.0\refint\who.dll
+C:\Users\NikEli\Desktop\cjfhudsrgyuer\asfdgyh\who\obj\Debug\net6.0\who.pdb
+C:\Users\NikEli\Desktop\cjfhudsrgyuer\asfdgyh\who\obj\Debug\net6.0\who.genruntimeconfig.cache
+C:\Users\NikEli\Desktop\cjfhudsrgyuer\asfdgyh\who\obj\Debug\net6.0\ref\who.dll
